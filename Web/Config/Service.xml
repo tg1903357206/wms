@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<configuration>
+    <components>
+<component id='SysMenuService' service='com.tg.WMS.Service.IServiceSysMenu,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentSysMenu,com.tg.WMS.Component' isTransactional='true' />
+<component id='SysRoleService' service='com.tg.WMS.Service.IServiceSysRole,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentSysRole,com.tg.WMS.Component' isTransactional='true' />
+<component id='SysUserService' service='com.tg.WMS.Service.IServiceSysUser,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentSysUser,com.tg.WMS.Component' isTransactional='true' />
+<component id='S_applicationService' service='com.tg.WMS.Service.IServiceS_application,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentS_application,com.tg.WMS.Component' isTransactional='true' />
+<component id='S_putsStorageService' service='com.tg.WMS.Service.IServiceS_putsStorage,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentS_putsStorage,com.tg.WMS.Component' isTransactional='true' />
+<component id='T_goodsService' service='com.tg.WMS.Service.IServiceT_goods,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentT_goods,com.tg.WMS.Component' isTransactional='true' />
+<component id='T_warehouseService' service='com.tg.WMS.Service.IServiceT_warehouse,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentT_warehouse,com.tg.WMS.Component' isTransactional='true' />
+<component id='T_workerService' service='com.tg.WMS.Service.IServiceT_worker,com.tg.WMS.Service' type='com.tg.WMS.Component.ComponentT_worker,com.tg.WMS.Component' isTransactional='true' />
+    </components>
+</configuration>

@@ -1,0 +1,13 @@
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\bin\Release\ToolApp.exe.config
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\bin\Release\ToolApp.exe.manifest
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\bin\Release\ToolApp.application
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\bin\Release\ToolApp.exe
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\bin\Release\ToolApp.pdb
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.csprojResolveAssemblyReference.cache
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.Form1.resources
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.Properties.Resources.resources
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.csproj.GenerateResource.Cache
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.exe.manifest
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.application
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.exe
+C:\Users\MrYang\Desktop\ZDSoft.TES\ToolApp\obj\Release\ToolApp.pdb

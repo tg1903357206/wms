@@ -1,0 +1,17 @@
+E:\框架应用\WMS\Common\bin\Debug\com.tg.WMS.Common.dll
+E:\框架应用\WMS\Common\bin\Debug\com.tg.WMS.Common.pdb
+E:\框架应用\WMS\Common\bin\Debug\com.tg.WMS.Domain.dll
+E:\框架应用\WMS\Common\bin\Debug\com.tg.WMS.Domain.pdb
+E:\框架应用\WMS\Common\obj\Debug\com.tg.WMS.Common.dll
+E:\框架应用\WMS\Common\obj\Debug\com.tg.WMS.Common.pdb
+E:\框架应用\WMS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\框架应用\WMS\Common\bin\Debug\Castle.ActiveRecord.dll
+E:\框架应用\WMS\Common\bin\Debug\NHibernate.ByteCode.Castle.dll
+E:\框架应用\WMS\Common\bin\Debug\NHibernate.dll
+E:\框架应用\WMS\Common\bin\Debug\Castle.Components.Validator.dll
+E:\框架应用\WMS\Common\bin\Debug\Castle.Core.dll
+E:\框架应用\WMS\Common\bin\Debug\Iesi.Collections.dll
+E:\框架应用\WMS\Common\bin\Debug\NHibernate.Search.dll
+E:\框架应用\WMS\Common\bin\Debug\Castle.ActiveRecord.xml
+E:\框架应用\WMS\Common\bin\Debug\Castle.Components.Validator.xml
+E:\框架应用\WMS\Common\bin\Debug\Castle.Core.xml

@@ -1,0 +1,11 @@
+﻿@using com.tg.WMS.Domain
+@{
+    ViewBag.Title = "InitDB";
+}
+<script>
+    function doStart() {
+        window.location.href = "/Home/StartInitDB";
+    }
+</script>
+<h2>初始化数据库</h2>
+<input type="button" value="开始" onclick="doStart()" />

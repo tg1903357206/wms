@@ -1,0 +1,104 @@
+﻿@using com.tg.WMS.Core;
+@using com.tg.WMS.Domain;
+@using com.tg.WMS.Service;
+
+
+
+@{
+    Layout = null;
+    IList<SysMenu> menuAuth = (IList<SysMenu>)ViewBag.menuAuth;
+    //IList<SysMenu> menuAuth = Container.Instance.Reslove<IServiceSysMenu>().GetAll();
+    SysUser a = (SysUser)Session["userInfo"];
+    var firstMenu = from m in menuAuth
+                    where m.ParentMenu == null
+                    select m;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Scripts/easyUI/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Scripts/easyUI/themes/icon.css" rel="stylesheet" />
+    <link href="~/Scripts/easyUI/demo/demo.css" rel="stylesheet" />
+    <script src="~/Scripts/easyUI/jquery.min.js"></script>
+    <script src="~/Scripts/easyUI/jquery.easyui.min.js"></script>
+    <script src="~/Scripts/easyUI/locale/easyui-lang-zh_CN.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            bindEvent();
+        });
+        //绑定事件
+        function bindEvent() {
+            $(".detailLink123").click(function () {
+                var title = $(this).text();
+                var url = $(this).attr("url");
+                var isExt = $('#tt').tabs('exists', title);//判断页签是否已经存在
+                if (isExt) {
+                    $('#tt').tabs('select', title);//如果存在选中
+                    return;
+                }
+                $('#tt').tabs('add', {//添加页签
+                    title: title,
+                    content: createContent(url),
+                    closable: true
+                });
+
+            });
+        }
+        function createContent(url) {
+            var strHtml = '<iframe src="' + url + '" scrolling="no" frameborder="0" width="100%" height="100%"></iframe>';
+            return strHtml;
+        }
+
+    </script>
+</head>
+<body class="easyui-layout">
+    <div data-options="region:'north',border:false" style="height:100px;background:#B3DFDA;padding:10px">north region</div>
+<!-------------------------------------------------左-------------------------------------------------------------------------------->
+    <div data-options="region:'west',split:true" title="West" style="width:200px;">
+        <div class="easyui-accordion" data-options="fit:true,border:false">
+            @foreach (var item in firstMenu)
+            {
+                var secendMenu = from m in menuAuth
+                                 where m.ParentMenu != null && m.ParentMenu.ID == item.ID
+                                 select m;
+
+
+           
+                <div title="@item.Name" style="padding:10px;">
+                    @foreach (var child in secendMenu)
+                    {
+                        <div style="padding:10px;background:#A9FACD">
+                            <a href="javascript:void(0)" class="detailLink123" url="/@child.ControllerName/@child.ActionName" target="qqq">@child.Name</a>
+                        </div>
+                    }
+                 </div>
+
+            }
+        </div>
+          
+      </div>
+
+    <div data-options="region:'east',split:true,collapsed:true,title:'East'" style="width:100px;padding:10px;">east region</div>
+    <!-----------------------下------------------->
+    <div data-options="region:'south',border:false" style="height:50px;background:#A9FACD;padding:10px;">
+       
+    </div>
+    <!----------------中---------------------------->
+    <div data-options="region:'center',title:'Center'">
+
+        <div class="easyui-tabs" style="width:700px;height:250px" fit="true" id="tt">
+            <div title="用户验证" style="padding:0px" data-options="closable:true">
+                <iframe src="/Verify/Verify" scrolling="no" frameborder="0" name="qqq" style="width:100%;height:100%"></iframe>
+
+            </div>
+
+        </div>
+       
+    </div>
+  
+</body>
+</html>
