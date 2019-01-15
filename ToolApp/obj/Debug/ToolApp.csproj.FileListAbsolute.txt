@@ -140,3 +140,6 @@ E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.application
 E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.exe
 E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.pdb
 E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.csprojResolveAssemblyReference.cache
+F:\wms\ToolApp\bin\Debug\ToolApp.exe.config
+F:\wms\ToolApp\obj\Debug\ToolApp.exe
+F:\wms\ToolApp\obj\Debug\ToolApp.pdb
