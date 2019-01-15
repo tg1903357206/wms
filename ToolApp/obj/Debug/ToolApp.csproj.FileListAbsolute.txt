@@ -140,3 +140,16 @@ E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.application
 E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.exe
 E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.pdb
 E:\框架应用\WMS\ToolApp\obj\Debug\ToolApp.csprojResolveAssemblyReference.cache
+G:\WMS\ToolApp\bin\Debug\ToolApp.exe.config
+G:\WMS\ToolApp\bin\Debug\ToolApp.exe.manifest
+G:\WMS\ToolApp\bin\Debug\ToolApp.application
+G:\WMS\ToolApp\bin\Debug\ToolApp.exe
+G:\WMS\ToolApp\bin\Debug\ToolApp.pdb
+G:\WMS\ToolApp\obj\Debug\ToolApp.Form1.resources
+G:\WMS\ToolApp\obj\Debug\ToolApp.Properties.Resources.resources
+G:\WMS\ToolApp\obj\Debug\ToolApp.csproj.GenerateResource.cache
+G:\WMS\ToolApp\obj\Debug\ToolApp.csproj.CoreCompileInputs.cache
+G:\WMS\ToolApp\obj\Debug\ToolApp.exe.manifest
+G:\WMS\ToolApp\obj\Debug\ToolApp.application
+G:\WMS\ToolApp\obj\Debug\ToolApp.exe
+G:\WMS\ToolApp\obj\Debug\ToolApp.pdb

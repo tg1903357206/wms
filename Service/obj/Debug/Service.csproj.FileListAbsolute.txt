@@ -15,3 +15,12 @@ E:\框架应用\WMS\Service\bin\Debug\NHibernate.Search.dll
 E:\框架应用\WMS\Service\bin\Debug\Castle.ActiveRecord.xml
 E:\框架应用\WMS\Service\bin\Debug\Castle.Components.Validator.xml
 E:\框架应用\WMS\Service\bin\Debug\Castle.Core.xml
+G:\WMS\Service\bin\Debug\com.tg.WMS.Service.dll
+G:\WMS\Service\bin\Debug\com.tg.WMS.Service.pdb
+G:\WMS\Service\bin\Debug\com.tg.WMS.Domain.dll
+G:\WMS\Service\bin\Debug\com.tg.WMS.Domain.pdb
+G:\WMS\Service\obj\Debug\Service.csprojAssemblyReference.cache
+G:\WMS\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+G:\WMS\Service\obj\Debug\Service.csproj.CopyComplete
+G:\WMS\Service\obj\Debug\com.tg.WMS.Service.dll
+G:\WMS\Service\obj\Debug\com.tg.WMS.Service.pdb

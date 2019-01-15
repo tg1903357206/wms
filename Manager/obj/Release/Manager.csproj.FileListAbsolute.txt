@@ -1,0 +1,12 @@
+G:\WMS\Manager\bin\Release\com.tg.WMS.Manager.dll
+G:\WMS\Manager\bin\Release\com.tg.WMS.Manager.pdb
+G:\WMS\Manager\bin\Release\Castle.ActiveRecord.dll
+G:\WMS\Manager\bin\Release\com.tg.WMS.Domain.dll
+G:\WMS\Manager\bin\Release\NHibernate.dll
+G:\WMS\Manager\bin\Release\Castle.Core.dll
+G:\WMS\Manager\bin\Release\com.tg.WMS.Domain.pdb
+G:\WMS\Manager\obj\Release\Manager.csprojAssemblyReference.cache
+G:\WMS\Manager\obj\Release\Manager.csproj.CoreCompileInputs.cache
+G:\WMS\Manager\obj\Release\Manager.csproj.CopyComplete
+G:\WMS\Manager\obj\Release\com.tg.WMS.Manager.dll
+G:\WMS\Manager\obj\Release\com.tg.WMS.Manager.pdb

@@ -21,3 +21,16 @@ E:\框架应用\WMS\Component\bin\Debug\Castle.Components.Validator.xml
 E:\框架应用\WMS\Component\bin\Debug\Castle.Core.xml
 E:\框架应用\WMS\Component\bin\Debug\Castle.ActiveRecord.Web.dll
 E:\框架应用\WMS\Component\bin\Debug\Castle.ActiveRecord.Web.xml
+G:\WMS\Component\bin\Debug\com.tg.WMS.Component.dll
+G:\WMS\Component\bin\Debug\com.tg.WMS.Component.pdb
+G:\WMS\Component\bin\Debug\com.tg.WMS.Domain.dll
+G:\WMS\Component\bin\Debug\com.tg.WMS.Manager.dll
+G:\WMS\Component\bin\Debug\com.tg.WMS.Service.dll
+G:\WMS\Component\bin\Debug\com.tg.WMS.Domain.pdb
+G:\WMS\Component\bin\Debug\com.tg.WMS.Manager.pdb
+G:\WMS\Component\bin\Debug\com.tg.WMS.Service.pdb
+G:\WMS\Component\obj\Debug\Component.csprojAssemblyReference.cache
+G:\WMS\Component\obj\Debug\Component.csproj.CoreCompileInputs.cache
+G:\WMS\Component\obj\Debug\Component.csproj.CopyComplete
+G:\WMS\Component\obj\Debug\com.tg.WMS.Component.dll
+G:\WMS\Component\obj\Debug\com.tg.WMS.Component.pdb

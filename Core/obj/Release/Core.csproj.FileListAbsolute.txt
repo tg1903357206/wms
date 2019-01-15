@@ -1,0 +1,13 @@
+G:\WMS\Core\bin\Release\com.tg.WMS.Core.dll
+G:\WMS\Core\bin\Release\com.tg.WMS.Core.pdb
+G:\WMS\Core\bin\Release\Castle.Core.dll
+G:\WMS\Core\bin\Release\Castle.Windsor.dll
+G:\WMS\Core\bin\Release\com.tg.WMS.Domain.dll
+G:\WMS\Core\bin\Release\Castle.ActiveRecord.dll
+G:\WMS\Core\bin\Release\NHibernate.dll
+G:\WMS\Core\bin\Release\com.tg.WMS.Domain.pdb
+G:\WMS\Core\obj\Release\Core.csprojAssemblyReference.cache
+G:\WMS\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+G:\WMS\Core\obj\Release\Core.csproj.CopyComplete
+G:\WMS\Core\obj\Release\com.tg.WMS.Core.dll
+G:\WMS\Core\obj\Release\com.tg.WMS.Core.pdb
